@@ -2,6 +2,10 @@
   "name": "ai-support-analytics",
   "version": "1.0.0",
   "description": "AI-Powered Customer Support Analytics Platform",
+  "author": {
+    "name": "Harish Appikatla",
+    "email": "harishappikatla123@gmail.com"
+  }
   "private": true,
   "scripts": {
     "dev": "concurrently \"npm run dev:backend\" \"npm run dev:frontend\"",
